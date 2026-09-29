@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<title>RoboSAPIENS Monitor</title>
+<rect x="16" y="16" width="480" height="480" rx="108" fill="#ED341A"/><clipPath id="tile"><rect x="16" y="16" width="480" height="480" rx="108"/></clipPath><path clip-path="url(#tile)" d="M-2,408 L168,408 L202,374 L270,442 L304,408 L514,408" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linejoin="round" stroke-linecap="butt"/>
+
+<rect x="246" y="59" width="20" height="57" fill="#F4AD3B" stroke="#111111" stroke-width="12"/>
+<path d="M218,146 L236,104 L276,104 L294,146 Z" fill="#5EC8E0" stroke="#111111" stroke-width="12" stroke-linejoin="round"/>
+<circle cx="256" cy="59" r="25" fill="#F4AD3B" stroke="#111111" stroke-width="12"/>
+<circle cx="132" cy="244" r="46" fill="#DAF5FB" stroke="#111111" stroke-width="12"/>
+<circle cx="380" cy="244" r="46" fill="#DAF5FB" stroke="#111111" stroke-width="12"/>
+<rect x="124" y="146" width="264" height="196" rx="41" fill="#5EC8E0" stroke="#111111" stroke-width="12"/>
+<circle cx="192" cy="244" r="46" fill="#FFFFFF" stroke="#111111" stroke-width="12"/>
+<circle cx="192" cy="244" r="28" fill="#111111"/>
+<circle cx="181" cy="233" r="9" fill="#FFFFFF"/>
+<circle cx="320" cy="244" r="46" fill="#FFFFFF" stroke="#111111" stroke-width="12"/>
+<circle cx="320" cy="244" r="28" fill="#111111"/>
+<circle cx="309" cy="233" r="9" fill="#FFFFFF"/>
+</svg>
